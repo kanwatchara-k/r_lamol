@@ -355,9 +355,6 @@ if __name__ =="__main__":
     
     device = torch.device(args.device)
     
-    # Pluem added SummaryTracker?
-    # Forgot to remove555
-#     mem = tracker.SummaryTracker()
     hard_selection_method="percentile"
     k=100
     p=20
