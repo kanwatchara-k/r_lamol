@@ -43,7 +43,7 @@ Arguments for CCI :
 | n/n_ann           | Number of maximum annotations to do ie. 200 (We found that 200 is enough)|
 | gen_rat        | Use generated rationale? |
 
-#### Unsupervised Rationale Generation
+## Unsupervised Rationale Generation
 Any rationale generation module can be used. However, in this work we used [InvRat](https://github.com/code-terminator/invariant_rationalization).
 
 Generated rationales has to be in the same format as ERASER's jsonl file and in the same directory as human rationales. Then simply run CCI with ```--gen_rat```.
