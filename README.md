@@ -52,5 +52,5 @@ Generated rationales has to be in the same format as ERASER's jsonl file and in 
 TODO: \
 ~~Write Proper Readme~~ \
 ~~Upload Code~~ \
-~~Upload SciFact dataset used in the paper~~
+~~Upload SciFact dataset used in the paper~~ \
 Refactor code, use submodule to properly give credit to LAMOL
